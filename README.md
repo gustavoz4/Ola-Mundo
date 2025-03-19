@@ -1,2 +1,2 @@
-# Ola Mundo
-  primeiro repositorio versonado
+# Olá, Mundo!
+  primeiro repositorio do curso de git e gitHub
